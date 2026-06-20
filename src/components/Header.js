@@ -38,7 +38,7 @@ const Header = () => {
               IV Congreso Internacional Multidisciplinario de Matemática
             </Text>
             <Text fontSize={[16, 20, 24]}>
-              Del 9 al 12 de mayo de 2023 - Presencial
+              Del 9 al 12 de mayo de 2026 - Presencial
             </Text>
           </Box>
         </Box>
