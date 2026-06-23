@@ -35,10 +35,10 @@ const Header = () => {
             p={2}
           >
             <Text fontWeight='bold' fontSize={[36, 48, 64]}>
-              IV Congreso Internacional Multidisciplinario de Matemática
+              VI Congreso Internacional Multidisciplinario de Matemática
             </Text>
             <Text fontSize={[16, 20, 24]}>
-              Del 9 al 12 de mayo de 2026 - Presencial
+              Del 15 al 18 de diciembre de 2026 - Presencial
             </Text>
           </Box>
         </Box>
