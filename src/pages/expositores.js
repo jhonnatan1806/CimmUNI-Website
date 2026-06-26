@@ -103,24 +103,20 @@ export default function Expositores() {
                 pt={4}
               >
                 <Link
-                  href='/registro'
-                  bg='brand.100'
-                  color='white'
+                  bg='gray.300'
+                  color='gray.500'
                   fontSize='md'
                   fontWeight='bold'
                   px={8}
                   py={3}
                   borderRadius='md'
                   textAlign='center'
+                  cursor='not-allowed'
                   _hover={{
-                    bg: 'brand.200',
-                    textDecoration: 'none',
-                    transform: 'translateY(-2px)',
-                    boxShadow: 'md'
+                    textDecoration: 'none'
                   }}
-                  transition='all 0.2s'
                 >
-                  Registrarse ahora
+                  Registro próximamente
                 </Link>
                 <Link
                   href='/contacto'
