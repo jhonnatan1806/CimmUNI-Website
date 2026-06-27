@@ -59,17 +59,6 @@ export default function Home() {
                     p={2}
                   />
                 </Link>
-                <Link href='https://www.cmm.uchile.cl/' isExternal target='_blank'>
-                  <Image
-                    src='/images/logo_cmm.webp'
-                    alt='logo cmm'
-                    rounded='md'
-                    shadow='md'
-                    bg='white'
-                    height={[14, 24]}
-                    p={2}
-                  />
-                </Link>
                 <Link href='https://vra.uni.edu.pe/' isExternal target='_blank'>
                   <Image
                     src='/images/logo_uni.webp'

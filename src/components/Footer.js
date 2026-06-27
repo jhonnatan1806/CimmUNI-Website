@@ -44,25 +44,10 @@ export const Footer = () => {
               p={2}
             />
           </Link>
-          <Link
-            href='https://www.cmm.uchile.cl/'
-            isExternal
-            target='_blank'
-          >
-            <Image
-              src='/images/logo_cmm.webp'
-              alt='logo cmm'
-              rounded='md'
-              shadow='md'
-              bg='white'
-              height={[12, 24]}
-              p={2}
-            />
-          </Link>
         </Flex>
       </Flex>
       <Flex justifyContent='center'>
-        <Text fontSize='sm'>Cimmuni 2023 | Todos los derechos reservados.</Text>
+        <Text fontSize='sm'>Cimmuni 2026 | Todos los derechos reservados.</Text>
       </Flex>
     </VStack>
   )
@@ -72,7 +57,7 @@ export const FooterSimple = () => {
   return (
     <VStack as='footer' bg='brand.100' color='white' spacing={4} py={4}>
       <Flex justifyContent='center' mt='0px !important'>
-        <Text fontSize='sm'>Cimmuni 2023 | Todos los derechos reservados.</Text>
+        <Text fontSize='sm'>Cimmuni 2026 | Todos los derechos reservados.</Text>
       </Flex>
     </VStack>
   )
