@@ -28,7 +28,7 @@ export default function Home() {
               externos de áreas diversas de la Matemática.
             </Text>
             <Text textAlign='justify'>
-              En esta cuarta edición, que será de manera presencial, se
+              En esta sexta edición, que será de manera presencial, se
               presentarán múltiples temas de la Matemática dentro de las áreas
               de álgebra, optimización, análisis numérico, investigación de
               operaciones, sistemas dinámicos, entre otras.
