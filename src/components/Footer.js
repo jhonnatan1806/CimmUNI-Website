@@ -24,7 +24,7 @@ export const Footer = () => {
         >
           <Link href='https://imca.edu.pe/' isExternal target='_blank'>
             <Image
-              src='/images/logo_imca.webp'
+              src='/images/logo_IMCA.png'
               alt='logo imca'
               rounded='md'
               shadow='md'

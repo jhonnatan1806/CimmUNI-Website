@@ -103,20 +103,44 @@ export default function Expositores() {
                 pt={4}
               >
                 <Link
-                  bg='gray.300'
-                  color='gray.500'
+                  href='/registro?tab=participantes'
+                  bg='brand.100'
+                  color='white'
                   fontSize='md'
                   fontWeight='bold'
                   px={8}
                   py={3}
                   borderRadius='md'
                   textAlign='center'
-                  cursor='not-allowed'
                   _hover={{
-                    textDecoration: 'none'
+                    bg: 'brand.200',
+                    textDecoration: 'none',
+                    transform: 'translateY(-2px)',
+                    boxShadow: 'md'
                   }}
+                  transition='all 0.2s'
                 >
-                  Registro próximamente
+                  Inscripción Participantes
+                </Link>
+                <Link
+                  href='/registro?tab=ponencias'
+                  bg='brand.100'
+                  color='white'
+                  fontSize='md'
+                  fontWeight='bold'
+                  px={8}
+                  py={3}
+                  borderRadius='md'
+                  textAlign='center'
+                  _hover={{
+                    bg: 'brand.200',
+                    textDecoration: 'none',
+                    transform: 'translateY(-2px)',
+                    boxShadow: 'md'
+                  }}
+                  transition='all 0.2s'
+                >
+                  Inscripción Ponencias
                 </Link>
                 <Link
                   href='/contacto'

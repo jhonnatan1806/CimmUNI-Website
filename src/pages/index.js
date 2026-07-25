@@ -50,7 +50,7 @@ export default function Home() {
               <Flex flexDir={['column', 'row']} wrap='wrap' justifyContent='center' alignItems='center' gap={4} px={2}>
                 <Link href='https://imca.edu.pe/' isExternal target='_blank'>
                   <Image
-                    src='/images/logo_imca.webp'
+                    src='/images/logo_IMCA.png'
                     alt='logo imca'
                     rounded='md'
                     shadow='md'
