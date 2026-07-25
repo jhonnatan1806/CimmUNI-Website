@@ -20,7 +20,7 @@ export default function Home() {
                 <strong>Escuela Profesional de Matemática</strong>
               </Link>
               &nbsp;de la Facultad de Ciencias de la UNI, que se viene
-              desarrollando anualmente desde el año 2020. Este congreso Inició
+              desarrollando periodicamente desde el año 2020. Este congreso Inició
               como una actividad interna fomentando la participación de los
               diversos grupos de investigación de la Escuela de Matemática de la
               FC-UNI. Durante este breve tiempo este congreso ha logrado tener
@@ -88,8 +88,8 @@ export default function Home() {
             </Flex>
           </Flex>
           <Image
-            src='/images/banner.webp'
-            alt='banner 2023'
+            src='/images/banner2026.jpeg'
+            alt='banner 2026'
             rounded='md'
             shadow='md'
             width={['100%', '50%']}
