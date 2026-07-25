@@ -33,18 +33,32 @@ export default function Home() {
               de álgebra, optimización, análisis numérico, investigación de
               operaciones, sistemas dinámicos, entre otras.
             </Text>
-            <Link
-              href='/registro'
-              bg='brand.100'
-              color='white'
-              width='fit-content'
-              rounded='md'
-              _hover={{ bg: 'brand.200' }}
-              px={4}
-              py={2}
-            >
-              Registrate Ahora
-            </Link>
+            <Flex gap={4} wrap='wrap'>
+              <Link
+                href='/registro'
+                bg='brand.100'
+                color='white'
+                width='fit-content'
+                rounded='md'
+                _hover={{ bg: 'brand.200', textDecoration: 'none' }}
+                px={4}
+                py={2}
+              >
+                Registrate Ahora
+              </Link>
+              <Link
+                href='/registro?tab=ponencias'
+                bg='brand.100'
+                color='white'
+                width='fit-content'
+                rounded='md'
+                _hover={{ bg: 'brand.200', textDecoration: 'none' }}
+                px={4}
+                py={2}
+              >
+                Envío de Ponencias
+              </Link>
+            </Flex>
             <Flex flexDir='column' gap={4} mt={8}>
               <Heading as='h2'>Patrocinan</Heading>
               <Flex flexDir={['column', 'row']} wrap='wrap' justifyContent='center' alignItems='center' gap={4} px={2}>

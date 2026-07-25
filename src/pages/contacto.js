@@ -13,6 +13,9 @@ export default function Contacto() {
           </Link>{' '}
           con el siguiente asunto: cimm-uni-2026.
         </Text>
+        <Text mb={4} fontSize='md'>
+          <strong>Referencia:</strong> Estación Honorio Delgado del Metropolitano.
+        </Text>
         <Map />
       </Layout>
     </>
