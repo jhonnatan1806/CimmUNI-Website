@@ -46,7 +46,7 @@ export default function Registro() {
           >
             <TabList mb='1em'>
               <Tab fontWeight='bold'>Inscripción de Participantes</Tab>
-              <Tab fontWeight='bold'>Inscripción de Ponencias</Tab>
+              <Tab fontWeight='bold'>Envío de Ponencias</Tab>
             </TabList>
             <TabPanels>
               <TabPanel>
