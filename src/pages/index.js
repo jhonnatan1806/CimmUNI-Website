@@ -20,7 +20,7 @@ export default function Home() {
                 <strong>Escuela Profesional de Matemática</strong>
               </Link>
               &nbsp;de la Facultad de Ciencias de la UNI, que se viene
-              desarrollando periodicamente desde el año 2020. Este congreso Inició
+              desarrollando periódicamente desde el año 2020. Este congreso Inició
               como una actividad interna fomentando la participación de los
               diversos grupos de investigación de la Escuela de Matemática de la
               FC-UNI. Durante este breve tiempo este congreso ha logrado tener
