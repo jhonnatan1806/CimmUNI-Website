@@ -140,7 +140,7 @@ export default function Expositores() {
                   }}
                   transition='all 0.2s'
                 >
-                  Inscripción Ponencias
+                  Envío de Ponencias
                 </Link>
                 <Link
                   href='/contacto'
