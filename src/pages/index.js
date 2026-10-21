@@ -88,8 +88,8 @@ export default function Home() {
             </Flex>
           </Flex>
           <Image
-            src='/images/banner2026_v2.jpeg'
-            alt='banner 2026_v2'
+            src='/images/banner_2026_final.jpeg'
+            alt='banner 2026_vfinal'
             rounded='md'
             shadow='md'
             width={['100%', '50%']}
